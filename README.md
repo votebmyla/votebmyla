@@ -16,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=votebmyla&show_icons=true&locale=en&layout=compact" alt="votebmyla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=votebmyla&show_icons=true&locale=en" alt="votebmyla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=votebmyla&" alt="votebmyla" /></p>
